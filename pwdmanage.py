@@ -59,5 +59,4 @@ def manage_del(pwdid):
 
 
 if __name__ == '__main__':
-    while 1:
-        manage()
+    manage()
